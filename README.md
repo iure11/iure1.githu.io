@@ -1,2 +1,18 @@
-# iure1.githu.io
+http://iure1.githu.io
 Site pessoal
+<!DOCTYPE html>
+<html>
+<!--  
+Exercício 2
+Valor: 1,5 pts
+Hospedagem
+Valor: 0,5 pts
+<head> -->
+	<title>Trabalho de reposição de nota </title>
+</head>
+<body bgcolor="#D7E3BD">
+	<h2 align="center"><font color="#356397" face="verdana"> SISTEMAS PARA INTERNET </font> </h2>
+	<p  align="center"><font size="6" face="tahoma"><font color="red"><b>A</b></font></font> formatação deste dexto utiliza tags <b>HTML</b> para <del>configurá-lo</del> <ins>formatá-lo</ins>, há </p> <p align="center"> <em><font color="red">tecnologias melhores</font></em> para se fazer isso, como exemplo o <b><em><font color="red">CSS</font><sup><font color="red">3</font></sup></em></b>.   </p>
+
+</body>
+</html>
